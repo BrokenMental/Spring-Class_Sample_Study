@@ -36,8 +36,7 @@
 	<!-- /.box-body -->
 
 	<div class="box-footer">
-		<button type="submit" class="btn btn-primary">Submit</button> 
-		//success로 안넘어간다? -> boardcontroller에서 listall로 바로 넘어가게 한다.
+		<button type="submit" class="btn btn-primary">Submit</button>
 	</div>
 </form>
 
